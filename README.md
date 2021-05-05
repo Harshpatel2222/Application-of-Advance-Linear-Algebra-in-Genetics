@@ -1,1 +1,1 @@
-# LA-project
+# Application of Linear Algebra in Genetics
