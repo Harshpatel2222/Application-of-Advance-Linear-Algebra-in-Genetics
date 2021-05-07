@@ -13,5 +13,5 @@
 
 ![Alt text](screenshots/graph2.png?raw=true "Title")
 
-![Alt text](screenshots/graph3.png?raw=true "Title")
+![Alt text](screenshots/graph3.PNG?raw=true "Title")
 
